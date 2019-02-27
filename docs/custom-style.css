@@ -168,7 +168,7 @@ start and select buttons. */
     position: absolute;
     width:62px;
     height:62px;
-    background: url(ps3-assets/face-buttons.png);
+    background: url(https://gamepadviewer.com/xbox-assets/abxy.svgz);
 }
 .custom .button.pressed{
     background-position-y: -64px;
